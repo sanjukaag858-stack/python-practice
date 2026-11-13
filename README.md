@@ -1,17 +1,36 @@
-# Python Practice
+Hi, I'm Sanju! 👋
 
-Hello! I'm Sanju kaag.
+🎓 B.Tech Graduate in Computer Science and Engineering (2026)
 
-I'm a B.Tech Computer Science graduate (2026).
+📍 Hyderabad, India
 
-This repository contains my Python learning and practice programs.
+About Me
 
-## Technical Skills
+I am a Computer Science graduate interested in exploring technology and developing my technical skills. I enjoy learning new things and improving my knowledge.
+
+Technical Skills
+
 - Python
 - SQL
-- Excel
+- Microsoft Excel
 
-## My Goal
-To improve my programming skills and build practical projects.
+Academic Project
 
-Thank you for visiting my repository!
+Modeling and Predicting Cyber Hacking Breaches
+
+An academic project focused on modelling and predicting cybersecurity breaches.
+
+Career Interests
+
+- Data Analytics
+- Python Programming
+- Database Management
+- Technology
+
+Currently
+
+Learning, exploring and building my technical knowledge.
+
+---
+
+Thanks for visiting my profile! 😊
